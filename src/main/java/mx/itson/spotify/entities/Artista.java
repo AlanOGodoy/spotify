@@ -65,7 +65,7 @@ public class Artista {
     public void setOyentesMensuales(int oyentesMensuales) {
         this.oyentesMensuales = oyentesMensuales;
     }
-    
+    //Hola; como estan jotos
     private String nombre;
     private String perfil;
     private int followers;
