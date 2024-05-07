@@ -9,7 +9,7 @@ package mx.itson.spotify.entities;
  * @author alang
  */
 public class Artista {
-    //Subido al octogato
+    //Subido al octoGato
 
     /**
      * @return the nombre
